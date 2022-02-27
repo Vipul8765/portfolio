@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.3f1307c8.chunk.css",
+    "main.js": "/portfolio/static/js/main.9d4aa82c.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.9d4aa82c.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.80442e39.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.80442e39.js.map",
+    "static/js/2.17aef75d.chunk.js": "/portfolio/static/js/2.17aef75d.chunk.js",
+    "static/js/2.17aef75d.chunk.js.map": "/portfolio/static/js/2.17aef75d.chunk.js.map",
+    "static/css/3.13d9c9f5.chunk.css": "/portfolio/static/css/3.13d9c9f5.chunk.css",
+    "static/js/3.8e339ac5.chunk.js": "/portfolio/static/js/3.8e339ac5.chunk.js",
+    "static/js/3.8e339ac5.chunk.js.map": "/portfolio/static/js/3.8e339ac5.chunk.js.map",
+    "static/css/4.ee65cb7d.chunk.css": "/portfolio/static/css/4.ee65cb7d.chunk.css",
+    "static/js/4.92d4c9f7.chunk.js": "/portfolio/static/js/4.92d4c9f7.chunk.js",
+    "static/js/4.92d4c9f7.chunk.js.map": "/portfolio/static/js/4.92d4c9f7.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "static/css/3.13d9c9f5.chunk.css.map": "/portfolio/static/css/3.13d9c9f5.chunk.css.map",
+    "static/css/4.ee65cb7d.chunk.css.map": "/portfolio/static/css/4.ee65cb7d.chunk.css.map",
+    "static/css/main.3f1307c8.chunk.css.map": "/portfolio/static/css/main.3f1307c8.chunk.css.map",
+    "static/js/2.17aef75d.chunk.js.LICENSE.txt": "/portfolio/static/js/2.17aef75d.chunk.js.LICENSE.txt",
+    "static/media/1.jpg": "/portfolio/static/media/1.3829ce0e.jpg",
+    "static/media/index.css": "/portfolio/static/media/Montserrat-Regular.3cd78665.ttf",
+    "static/media/contactMailDark.svg": "/portfolio/static/media/contactMailDark.1db650d3.svg",
+    "static/media/cpLogo.png": "/portfolio/static/media/cpLogo.f4296945.png",
+    "static/media/developerActivity.svg": "/portfolio/static/media/developerActivity.2c0445ca.svg",
+    "static/media/hac.png": "/portfolio/static/media/hac.b32b3ced.png",
+    "static/media/manOnTable.svg": "/portfolio/static/media/manOnTable.8f117eb2.svg",
+    "static/media/nextuLogo.webp": "/portfolio/static/media/nextuLogo.e033dbfa.webp",
+    "static/media/skill.svg": "/portfolio/static/media/skill.35a14766.svg",
+    "static/media/TalkCard.css": "/portfolio/static/media/talksCardBack.73ed1545.svg",
+    "static/media/umy.png": "/portfolio/static/media/umy.639d0661.png",
+    "static/media/vodafoneLogo.png": "/portfolio/static/media/vodafoneLogo.85892bb1.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.80442e39.js",
+    "static/js/2.17aef75d.chunk.js",
+    "static/css/main.3f1307c8.chunk.css",
+    "static/js/main.9d4aa82c.chunk.js"
+  ]
+}
